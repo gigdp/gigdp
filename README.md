@@ -2,9 +2,6 @@
 
 - ## Editando o perfil
 - 👋 Hi, I’m @gigdp
-- 
--
--
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
